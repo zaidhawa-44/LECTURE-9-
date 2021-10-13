@@ -1,0 +1,10 @@
+,student,Math_scores,chem_scores,IT_scores,bio_scores,total score,average score,status,Character Grade,Character  Grade,division,student email
+0,sameer,11,6,6,9,32,8.0,fail,F,,A,sameer@gmail.com
+1,raajan,88,78,65,51,282,70.5,pass,,B,A,raajan@gmail.com
+2,zaid,100,9,70,79,258,64.5,pass,,C,A,zaid@gmail.com
+3,indu,9,8,6,5,28,7.0,fail,F,,B,indu@gmail.com
+4,saloni,95,85,65,55,300,75.0,pass,,B,B,saloni@gmail.com
+5,sethu,100,90,70,60,320,80.0,pass,,B,B,sethu@gmail.com
+6,ram,11,42,12,5,70,17.5,fail,F,,C,ram@gmail.com
+7,shyam,34,99,75,55,263,65.75,pass,,C,C,shyam@gmail.com
+8,paam,76,4,73,60,213,53.25,pass,,C,C,paam@gmail.com
